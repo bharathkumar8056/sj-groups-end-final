@@ -51,7 +51,7 @@ export default function AboutContent() {
             <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-secondary-light/20 rounded-3xl blur-2xl -z-10"></div>
             <div className="rounded-3xl overflow-hidden border-2 border-primary/20 aspect-square shadow-xl">
               <img 
-                src="/assets/hero-banner.png" 
+                src="/assets/sj-logo-final.jpg" 
                 alt="SJ GROUPS - About"
                 className="w-full h-full object-cover"
               />
