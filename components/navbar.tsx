@@ -22,7 +22,7 @@ export default function Navbar() {
           <Link href="/" className="flex items-center gap-2 group">
             <div className="w-15 h-15 rounded-lg flex items-center justify-center group-hover:opacity-80 transition-opacity overflow-hidden">
               <img 
-                src="/assets/sj-logo.png" 
+                src="/assets/sj-logo-final.jpg" 
                 alt="SJ GROUPS Logo" 
                 className="w-full h-full object-cover"
               />
