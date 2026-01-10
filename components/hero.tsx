@@ -67,7 +67,7 @@ export default function Hero() {
             <div className="absolute inset-0 bg-gradient-to-br from-primary/15 to-secondary-light/15 rounded-3xl blur-2xl -z-10"></div>
             <div className="rounded-3xl overflow-hidden border border-primary/20 h-full shadow-2xl relative">
               {/* full-bleed image covering the entire right banner */}
-              <Image src="/assets/SJ-HOME.JPG" alt="Premium Bamboo Products" fill className="object-cover" />
+              <Image src="/assets/SJ-Home.JPG" alt="Premium Bamboo Products" fill className="object-cover" />
 
               {/* optional subtle overlay to improve text contrast */}
               <div className="absolute inset-0 bg-gradient-to-t from-black/30 via-transparent -z-10"></div>
